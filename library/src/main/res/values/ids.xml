@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="slide_frame" type="id" />
+    <item name="slide_content" type="id" />
+</resources>
